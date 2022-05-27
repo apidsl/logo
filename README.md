@@ -25,12 +25,15 @@ Font
 
 
     #4F12B0, #8E8E8E
+    
+    #6C2DD2, #BFBFBF
 
 
 Icon
   
     #8E8E8E, #4F12B0
     
+    #BFBFBF, #6C2DD2    
     
     
 ## 1
@@ -40,6 +43,11 @@ Icon
 ![2/cover.png](2/cover.png)
 
 
+## 3
+![3/cover.png](3/cover.png)
+
+## 4
+![4/cover.png](4/cover.png)
 
 ---
 
