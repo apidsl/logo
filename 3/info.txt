@@ -1,0 +1,18 @@
+
+Hope you enjoy your new logo, here are the people that
+made your beautiful logo happen :)
+font name: clarikagrot-medium
+font link: https://www.fontspring.com/fonts/the-refinery/clarika/clarika-grotesque-medium
+font author: The Refinery
+font author site: https://www.refinerybrand.com/
+
+
+icon designer: Jemis mali
+icon designer link: /jemismali
+        
+
+fontColor: {"gradient-0":"#BFBFBF","gradient-1":"#6C2DD2"}
+bgColor: {"hex":"transparent"}
+iconColor: {"gradient-0":"#BFBFBF","gradient-1":"#6C2DD2"}
+
+      
